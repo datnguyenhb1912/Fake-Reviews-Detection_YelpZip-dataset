@@ -10,4 +10,5 @@ The code is focused on processing YelpZip dataset and building machine learning 
 
 ## Authors
 Dat Nguyen
+
 Email: dat.ntt94@gmail.com
